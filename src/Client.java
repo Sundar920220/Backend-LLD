@@ -20,7 +20,7 @@ public class Client {
         t2.start();
 
 
-        System.out.println("Both the threads are completed"+ " count:"+count.value);
+        System.out.println("Both threads are completed"+ " count:"+count.value);
 
     }
 }
